@@ -1,5 +1,5 @@
 ## Ultimate Technologies Data Analysis Take-Home Interview Challenge
-As part of my coursework for Springboard, I was tasked with completing a mock take-home interview assignment from a ficticious ride-share company, Ultimate Technologies, Inc.  The challenge consisted of three parts, which are laid about below in full along with summaries of my answers/conclusions for each part.
+As part of my coursework for Springboard, I was tasked with completing a mock take-home interview assignment from a ficticious ride-share company, Ultimate Technologies, Inc.  The challenge consisted of three parts, which are laid out below in full along with summaries of my answers/conclusions for each part.
 
 You can access and review a more detailed explanation of my analysis, along with the source code, [here](https://github.com/gmj110680/ultimate-technologies-data-analysis-challenge/blob/master/Ultimate_Technologies_Data_Analysis_Interview_Challenge_Solution.ipynb).  I also have included in this repository the narrative questions and the two .csv files containing the data needed to complete this challenge.
 
